@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Awsome Blogs</title>
+    <description>Blogs about my interests and insights</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Well-Architected Framework for EKS - Best Practices and Solutions</title>
+        <description>
+          
+          &amp;nbsp; According to CNCF 2019 survey, more than 84% of respondents are using containers in production, and more than 78% respondents are using Kubernetes in Production. We also know that, 84% of all kubernetes workloads in public cloud run on AWS. With the commercial launch of Amazon Elastic Kubernetes Service...
+        </description>
+        <pubDate>Sat, 11 Apr 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020-04-11-Well-Architected-Framework-for-EKS/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-04-11-Well-Architected-Framework-for-EKS/</guid>
+      </item>
+    
+  </channel>
+</rss>
